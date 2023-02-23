@@ -1,0 +1,13 @@
+.caja {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+}
+
+.caja--verde {
+  background-color: green;
+}
+
+.caja--azul {
+  background-color: blue;
+}
