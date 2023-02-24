@@ -1,13 +1,31 @@
+/* le doy estilo a la caja */
+
 .caja {
   width: 150px;
   height: 150px;
   background-color: red;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
-.caja--verde {
-  background-color: green;
+/* caja color pinck para cuando aprieto el mouse sobre la caja */
+.caja--pink {
+  background-color: pink;
 }
 
-.caja--azul {
-  background-color: blue;
+/* caja color yellow para cuando suelto el mouse sobre la caja */
+.caja--yellow {
+  background-color: yellow;
+}
+
+/* le doy estilo a la card de los productos */
+
+.card {
+  border: 2px solid #f0e3b7;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 2rem;
 }
